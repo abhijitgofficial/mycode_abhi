@@ -1,0 +1,20 @@
+hc-122 | CHANGED | rc=0 >>
+{
+  "server": {
+    "name":"s1",
+    "host":"6.5.5.5",
+    "action":"enable",
+    "template-server":"default",
+    "conn-limit":64000000,
+    "no-logging":0,
+    "weight":1,
+    "slow-start":0,
+    "spoofing-cache":0,
+    "stats-data-action":"stats-data-enable",
+    "extended-stats":0,
+    "uuid":"63e84cb8-0166-11eb-9893-b64a72f68b77",
+    "a10-url":"/hpcapi/v3/provider/p1/tenant/p1t1/logical-partition/cluster-new-1-P0/slb/server/s1"
+  }
+}  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   576    0   444  100   132   1681    499 --:--:-- --:--:-- --:--:--  1681
